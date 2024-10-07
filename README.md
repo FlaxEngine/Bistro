@@ -8,9 +8,7 @@ It utilizes Dynamic Global Illumination (**DDGI**) for realtime-lighting.
 
 Minimum Flax version: `1.9`
 
-How to open the project
-
-## Installation
+## How to open the project
 
 1. Clone this repository
 
