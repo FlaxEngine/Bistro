@@ -1,0 +1,17 @@
+{
+	"ID": "670c89ef42151e884cdf26bd939129ef",
+	"TypeName": "FlaxEngine.Prefab",
+	"EngineBuild": 6603,
+	"Data": [
+	{
+		"ID": "c30d666944a2a4b7a75586ad281dc090",
+		"TypeName": "FlaxEngine.PointLight",
+		"ParentID": "00000000000000000000000000000000",
+		"Name": "Interior Light 2",
+		"Brightness": 1.0,
+		"ViewDistance": 3000.0,
+		"ShadowsDistance": 3000.0,
+		"Radius": 2000.0
+	}
+]
+}

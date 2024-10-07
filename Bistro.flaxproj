@@ -1,0 +1,28 @@
+{
+	"Name": "Bistro",
+	"Version": "1.0",
+	"Company": "Flax",
+	"Copyright": "",
+	"GameTarget": "GameTarget",
+	"EditorTarget": "GameEditorTarget",
+	"References": [
+		{
+			"Name": "$(EnginePath)/Flax.flaxproj"
+		}
+	],
+	"DefaultScene": "f07b91794a93fc3e7f3777b8b03f113b",
+	"DefaultSceneSpawn": {
+		"Position": {
+			"X": -1559.7953,
+			"Y": 492.3305,
+			"Z": -128.77415
+		},
+		"Direction": {
+			"X": 0.97442085,
+			"Y": -0.12154803,
+			"Z": 0.18902403
+		}
+	},
+	"MinEngineVersion": "1.9",
+	"EngineNickname": null
+}

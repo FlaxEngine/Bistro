@@ -1,0 +1,33 @@
+{
+	"ID": "b1a6fca1462555b38e7e3dbe244ef853",
+	"TypeName": "FlaxEditor.Content.Settings.StreamingSettings",
+	"EngineBuild": 6603,
+	"Data": {
+	"TextureGroups": [
+		{
+			"Name": "World",
+			"SamplerFilter": 3,
+			"MaxAnisotropy": 8,
+			"Quality": 1.0,
+			"QualityIfInvisible": 0.5,
+			"TimeToInvisible": 20.0,
+			"MipLevelsMin": 0,
+			"MipLevelsMax": 14,
+			"MipLevelsBias": 0,
+			"MipLevelsMaxPerPlatform": {}
+		},
+		{
+			"Name": "WorldNormal",
+			"SamplerFilter": 2,
+			"MaxAnisotropy": 8,
+			"Quality": 1.0,
+			"QualityIfInvisible": 0.5,
+			"TimeToInvisible": 20.0,
+			"MipLevelsMin": 0,
+			"MipLevelsMax": 14,
+			"MipLevelsBias": 0,
+			"MipLevelsMaxPerPlatform": {}
+		}
+	]
+}
+}

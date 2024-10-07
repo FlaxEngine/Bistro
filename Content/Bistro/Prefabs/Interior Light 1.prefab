@@ -1,0 +1,23 @@
+{
+	"ID": "c735b0104cb499004e53daa17c8911bf",
+	"TypeName": "FlaxEngine.Prefab",
+	"EngineBuild": 6603,
+	"Data": [
+	{
+		"ID": "984923304efcc1026c3150ab0935386e",
+		"TypeName": "FlaxEngine.SpotLight",
+		"ParentID": "00000000000000000000000000000000",
+		"Name": "SpotLight",
+		"Color": {
+			"R": 1.0,
+			"G": 0.9555555582046508,
+			"B": 0.9555555582046508,
+			"A": 1.0
+		},
+		"ViewDistance": 3000.0,
+		"Radius": 800.0,
+		"OuterAngle": 80.0,
+		"InnerAngle": 56.0
+	}
+]
+}
