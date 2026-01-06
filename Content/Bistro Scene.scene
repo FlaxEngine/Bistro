@@ -1,7 +1,7 @@
 {
 	"ID": "f07b91794a93fc3e7f3777b8b03f113b",
 	"TypeName": "FlaxEngine.SceneAsset",
-	"EngineBuild": 6604,
+	"EngineBuild": 6805,
 	"Data": [
 		{
 			"ID": "f07b91794a93fc3e7f3777b8b03f113b",
@@ -29531,12 +29531,13 @@
 			"ID": "8b869c1a4a57a3d62f2731bf9e1976cd",
 			"TypeName": "FlaxEngine.StaticModel",
 			"ParentID": "77912e9a4710d3870f6eac8b5e27de34",
+			"IsActive": false,
 			"Name": "Fix SDF Leaking 8",
 			"Transform": {
 				"Translation": {
-					"X": 2166.052978515625,
-					"Y": 1187.0389404296876,
-					"Z": -2198.01953125
+					"X": 2117.47265625,
+					"Y": 1206.4171142578125,
+					"Z": -2179.36328125
 				},
 				"Orientation": {
 					"X": 0.0,
